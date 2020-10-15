@@ -1,5 +1,5 @@
 # AHK-Keybinds
-Adds QWERTY located keybinds like Ctrl + C and Ctrl + V to the Dvorak layout.
+Adds Qwerty located keybinds like Ctrl + C and Ctrl + V to the Dvorak layout.
 
 ## Running the Script
 - Run the script with [AutoHotkey](https://www.autohotkey.com/).
