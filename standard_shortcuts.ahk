@@ -30,3 +30,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Start and End of line / Home and End
 <!g::Send, {Home}
 <!r::Send, {End}
+
+; Next and Previous word
+<!d::Send, ^{Left}
+<!s::Send, ^{Right}
